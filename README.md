@@ -19,13 +19,7 @@
 - Hardware: Nvidia Jetson/Orin/RTX/A100, Renesas R-Car, RaspberryPi
 - Programming: Python, C/C++, Verilog
 - Systems Engineering: Azure Cloud (VM), Ubuntu, Containerization, CI/CD DevOps
-
-
-
-- I thrive on turning complex technology into data-driven stories, intuitive product demos, and customer value.
-- Equally comfortable partnering with engineers, executives, or customers, I bridge product strategy with engineering execution.
-- I believe engineering success rests on three pillars: People, Product, and Traction.
-- My growth has been accelerated by many wonderful mentors, and I pay it forward by mentoring interns and early-career professionals.
+- Product Strategy, Competitor Analysis and Product Marketing for Semiconductor products
 
 **Beyond work:**
 + Founder of CampML.org, a community-driven ML bootcamp
