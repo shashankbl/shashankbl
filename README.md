@@ -8,7 +8,7 @@
 - Currently pursuing M.S in Artificial Intelligence.
 - Academic research interests:
   - Predictive Machine Learning models for Optometry research.
-  - Generative AI models for on-device multimodal tasks.
+  - Generative AI models for on-device multimodal tasks in computational visualization
 
 ## **Technical Skills**
 - Machine Learning: Training-to-Inference workflows (ML and MLOps), model profiling and benchmarking
